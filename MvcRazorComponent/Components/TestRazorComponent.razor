@@ -1,0 +1,13 @@
+﻿<h3>Component1</h3>
+
+    <button type="button" @onclick="()=> OnTestButtonClick(2)"> TEST BUTTON</button>
+
+@code {
+
+    int number = 0;
+    void OnTestButtonClick(int number)
+    {
+        this.number = number;
+    }
+}
+

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5L17HHFaHHcmW96tZfcX2icfoIceot0fCCGZoE9t11pn2rdpa65Wdh+FOJA+C0A6ZgJ0iOmEJ9BPq3tmI9iEDg==",
+  "success": true,
+  "projectFilePath": "/Volumes/Meine_Daten/Dev/C#/MvcRazorComponent/MvcRazorComponent/MvcRazorComponent.csproj",
+  "expectedPackageFiles": [
+    "/Users/benedikthoferger/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "/Users/benedikthoferger/.nuget/packages/microsoft.aspnetcore.razor/2.2.0/microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
+    "/Users/benedikthoferger/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
